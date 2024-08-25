@@ -1,2 +1,2 @@
-# User DEetail Form
+# User Detail Form
  
